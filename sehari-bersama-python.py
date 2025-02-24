@@ -1,3 +1,5 @@
+# Date Of Creation 8/11/2022
+
 #nyoba list
 mainlist = "dapak"
 listdata = [10, 'umur', 'intel']
