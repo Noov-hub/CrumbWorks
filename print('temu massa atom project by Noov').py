@@ -1,10 +1,5 @@
-/
-/
-/
-/
-/
-/
-print('temu massa atom project by Noov')
+# Day Of Creation 8-20-2022
+print('temu massa atom')
 print('')
 input('press enter to proceed')
 print('')
