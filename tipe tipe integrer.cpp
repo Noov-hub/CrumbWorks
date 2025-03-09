@@ -1,4 +1,6 @@
 //tipe data integer
+
+
 #include <iostream>
 
 using namespace std;
