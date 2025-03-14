@@ -7,7 +7,7 @@ print(mainlist, 'adalah', listdata[2])
 #nyoba del
 del listdata[2]
 print(listdata)
- 
+
 #nyoba append, pop dan insert
 listdata.append('bgst')
 print(listdata)
