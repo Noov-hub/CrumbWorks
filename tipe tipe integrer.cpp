@@ -22,4 +22,6 @@ int main ()
     cout << "isi variabel angka3 (long) " >> angka3 << endl;
 
     return 0;
+
+    
 }

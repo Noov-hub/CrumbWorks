@@ -3,6 +3,7 @@
 #include <iostream>
 
 
+
 using namespace std;
 #define P 16
 #define L 3
@@ -14,7 +15,7 @@ int main()
     
     cout << "nama = " << NAMA;
     cout << "\n";
-  
+
     cout << "tingginya = " << TINGGI;
     cout << "\n";
     
