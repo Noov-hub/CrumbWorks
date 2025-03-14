@@ -9,6 +9,6 @@ int main()
 
     /* cout << "yaa ga ada" */
 
-    
+
     return 0;
 }
