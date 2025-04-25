@@ -9,6 +9,7 @@ int main()
     string nama;
     int umur;
     
+    
     cout << "masukan nama mu!: ";
     getline(cin,nama);
     
