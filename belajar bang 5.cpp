@@ -13,6 +13,7 @@ int main ()
 
     cout << "karakter nya 1 digit aja y..." << endl ;
     cout << "karakter pertama: ";
+    
     cin >> karakter1;
 
     cout << "karakter kedua: ";
