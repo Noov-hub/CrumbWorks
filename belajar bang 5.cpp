@@ -6,6 +6,7 @@ int main ()
 {
     char karakter1, karakter2, karakter3;
     
+    
     cout << "input 3 karakter sembarang" << endl;
     cout << "=====================" << endl;
     cout << endl;
