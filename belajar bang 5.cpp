@@ -27,5 +27,6 @@ int main ()
     cout << "karakter yang di input :";
     cout << karakter1 << ", " << karakter2 << ", dan" << karakter3;
     cout << endl;
+    
     return 0;
 }
