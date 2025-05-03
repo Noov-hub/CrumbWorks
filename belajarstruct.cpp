@@ -1,4 +1,3 @@
-
 // Day Of Creation 3/14/2023
 
 #include<iostream>
@@ -42,7 +41,7 @@ int main()
     siswa5.uangsaku = 324000;
 
     
-    siswa6.nama = "moler";
+    siswa6.nama = "ajam";
     siswa6.sekolah = "katod";
     siswa6.uangsaku = 5500000;
     
