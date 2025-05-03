@@ -12,4 +12,4 @@ else:
     if (jawaban == 5):
         print('nahh gitu dongg..')
     else:
-        print('dahlah...males gw asw')
+        print('dahlah...males gw co')
